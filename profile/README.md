@@ -3,6 +3,8 @@
 Welcome to Fastoz.
 
 We build open-source software focused on:
+
+- ｡🇯‌🇸‌ Javascript
 - 🐧 Linux
 - ⚙️ Systems programming
 - 💻 C/C++
@@ -40,3 +42,4 @@ GitHub Discussions or Issues are the best place to reach us.
 ![Python](https://img.shields.io/badge/Python-Developer-blue)
 ![Rust](https://img.shields.io/badge/Rust-Coder-red)
 ![Golang](https://img.shields.io/badge/Go-Golang-blue)
+![JavaScript](https://img.shields.io/badge/Java-script-yellow)
