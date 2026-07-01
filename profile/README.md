@@ -36,10 +36,15 @@ GitHub Discussions or Issues are the best place to reach us.
 
 ---
 
-![Linux](https://img.shields.io/badge/Linux-Lover-orange)
-![C](https://img.shields.io/badge/C-Programming-darkblue)
-![C++](https://img.shields.io/badge/C++-Programming-darkblue)
-![Python](https://img.shields.io/badge/Python-Developer-blue)
-![Rust](https://img.shields.io/badge/Rust-Coder-red)
-![Golang](https://img.shields.io/badge/Go-Golang-blue)
-![JavaScript](https://img.shields.io/badge/Java-script-yellow)
+<div style="">
+
+  
+  ![Linux](https://img.shields.io/badge/Linux-Lover-orange)
+  ![C](https://img.shields.io/badge/C-Programming-darkblue)
+  ![C++](https://img.shields.io/badge/C++-Programming-darkblue)
+  ![Python](https://img.shields.io/badge/Python-Developer-blue)
+  ![Rust](https://img.shields.io/badge/Rust-Coder-red)
+  ![Golang](https://img.shields.io/badge/Go-Golang-blue)
+  ![JavaScript](https://img.shields.io/badge/Java-script-yellow)
+
+</div>
